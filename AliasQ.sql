@@ -1,7 +1,11 @@
 /*
 CREATED BY: ninjay4
 CREATED ON: 3/1/24
-DESCRIPTION: This query selects the first name,
+DESCRIPTION: SQL QuickStart Guide
+sTunes Database
+Writing SQL Statements
+Chapter 4
+This query selects the first name,
 last name, email, phone number, and country
 fields from the customers table and demonstrates
 four different ways to create an alias
