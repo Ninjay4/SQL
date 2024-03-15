@@ -5,9 +5,10 @@ CREATED ON: 3/9/24
 MODIFIED ON: none
 DESCRIPTION:
 SQL QuickStart Guide
+Use with sTunes Database
 Part II  Chapter 5
-BETWEEN Operator
-What is the highest invoice amount in the dataset
+TOPIC: BETWEEN Operator
+TASK: What is the highest invoice amount in the dataset
 Of totals between 1.98 and 5.00, ordered by total?
 This query selects InvoiceId and total
 From the invoices table
