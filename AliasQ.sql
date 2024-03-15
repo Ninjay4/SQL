@@ -1,4 +1,5 @@
 /*
+FILE NAME: AliasQ
 CREATED BY: Ninjay4
 CREATED ON: 3/1/24
 DESCRIPTION: 
@@ -7,7 +8,7 @@ Use with sTunes Database
 Part II  Chapter 4
 Writing SQL Statements
 TOPIC - Aliases
-This query selects the first name,
+TASK - selects the first name,
 last name, email, phone number, and country
 fields from the customers table and demonstrates
 four different ways to create an alias
