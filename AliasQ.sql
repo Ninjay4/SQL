@@ -1,10 +1,12 @@
 /*
-CREATED BY: ninjay4
+CREATED BY: Ninjay4
 CREATED ON: 3/1/24
-DESCRIPTION: SQL QuickStart Guide
-sTunes Database
+DESCRIPTION: 
+SQL QuickStart Guide
+Use with sTunes Database
+Part II  Chapter 4
 Writing SQL Statements
-Chapter 4
+TOPIC - Aliases
 This query selects the first name,
 last name, email, phone number, and country
 fields from the customers table and demonstrates
