@@ -7,8 +7,11 @@ DESCRIPTION:
 SQL QuickStart Guide
 Part 1 Chapter 4
 Data Analysis Checkpoint #1
+Use with sTunes Database
+TASK:
 How many customers' last names
 Begin with 'B'?
+CODE:
 This query selects the count of
 The last names that begin with 'B'
 from the customers TABLE
