@@ -6,8 +6,12 @@ MODIFIED ON: None
 DESCRIPTION:
 SQL QuickStart Guide
 Part 1 Chapter 4
+Use with sTunes Database
+TOPIC:
 Data Analysis Checkpoint #1
+TASK:
 How many customers' last names begin with 'B'?
+CODE:
 This query answers the question
 Using 'Order By' only; With select last name 
 from the customers table, ordered by 
