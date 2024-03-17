@@ -7,11 +7,12 @@ DESCRIPTION:
 SQL QuickStart Guide
 Use with sTunes Database
 Part II  Chapter 5
-TOPIC: BETWEEN
+TOPIC: 
+BETWEEN Operator
 TASK: 
 Produce a list of invoices with totals between 1.98 and 5.00
 Ordered by the invoice date
-CODING:
+CODE:
 This query selects InvoiceId, InvoiceDate, and total
 From the invoices table
 Where the total amounts are between 1.98 and 5.00
