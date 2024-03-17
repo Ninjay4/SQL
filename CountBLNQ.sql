@@ -6,8 +6,9 @@ MODIFIED ON: 3/5/24
 DESCRIPTION:
 SQL QuickStart Guide
 Part 1 Chapter 4
-Data Analysis Checkpoint #1
 Use with sTunes Database
+TOPIC:
+Data Analysis Checkpoint #1
 TASK:
 How many customers' last names
 Begin with 'B'?
