@@ -7,11 +7,14 @@ SQL QuickStart Guide
 Use with sTunes Database
 Part II  Chapter 4
 Writing SQL Statements
-TOPIC - Aliases
-TASK - selects the first name,
-last name, email, phone number, and country
-fields from the customers table and demonstrates
-four different ways to create an alias
+TOPIC:
+Aliases
+TASK:
+Demonstrate four different ways to create an alias
+CODING:
+Selects the first name, last name, email, 
+phone number, and country fields from 
+the customers table
 */
 
 SELECT
