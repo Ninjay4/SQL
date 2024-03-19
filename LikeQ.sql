@@ -6,8 +6,12 @@ MODIFIED ON: none
 DESCRIPTION:
 SQL QuickStart Guide
 Part II  Chapter 5
+Use with sTunes Database
+TOPIC:
 LIKE Operator
+TASK:
 Find all invoices that are billed to cities that start with 'T'
+CODE:
 This query selects InvoiceId and BillingCity
 From the invoices table 
 Where BillingCity begins with a 'T'
