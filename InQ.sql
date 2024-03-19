@@ -6,10 +6,14 @@ MODIFIED ON: none
 DESCRIPTION:
 SQL QuickStart Guide
 Part II  Chapter 5
+Use with sTunes Database
+TOPIC:
 IN Operator
+TASK:
 Get a list of invoice totals that
 Equal either 1.98 or 3.96,
 Ordered by invoice date
+CODE:
 This query selects InvoiceId, InvoiceDate, and total
 From the invoices table
 Where total equals either 1.98 or 3.96
