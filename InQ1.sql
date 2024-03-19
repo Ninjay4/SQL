@@ -6,8 +6,12 @@ MODIFIED ON: none
 DESCRIPTION:
 SQL QuickStart Guide
 Part II  Chapter 5
+Use with sTunes Database
+TOPIC:
 IN Operator
+TASK:
 List the invoices that have totals of 13.86, 18.86, and 21.86
+CODE:
 This query selects InvoiceId and total
 From the invoices table 
 Where the total is equal to 13.86, 18.86, or 21.86
