@@ -5,13 +5,15 @@ CREATED ON: 3/3/24
 MODIFIED ON: none
 DESCRIPTION:
 SQL QuickStart Guide
+Use with sTunes Database
 Part 1, Chapter 4
-LIMIT
-This query select the first name, last name,
+TOPIC: LIMIT
+CODE:
+This query selects the first name, last name,
 And email from the customers table, 
 ordered by first name - ascending, 
 then the last name - descending;
-Selects the first 10 records
+Limit to the first 10 records
 */
 
 SELECT
